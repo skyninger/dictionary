@@ -166,7 +166,7 @@ Nature
 Objects
 ----------
 | 表情图 | 表情代码 | 表情图 | 表情代码 |
-| :--: | :-- | :-- | :-- |
+| :--: | :-- | :--: | :-- |
 | :bamboo: | `:bamboo:` | :gift_heart: | `:gift_heart:` |
 | :dolls: | `:dolls:` | :school_satchel: | `:school_satchel:` |
 | :mortar_board: | `:mortar_board:` | :flags: | `:flags:` |
