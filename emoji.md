@@ -1,7 +1,7 @@
 People
 ----------
 | 表情图 | 表情代码 | 表情图 | 表情代码 |
-| :--: | :-- | :-- | :-- |
+| :--: | :-- | :--: | :-- |
 | :bowtie: | `:bowtie:` | :smile: | `:smile:` |
 | :simple_smile: | `:simple_smile:` | :laughing: | `:laughing:` |
 | :blush: | `:blush:` | :smiley: | `:smiley:` |
@@ -103,7 +103,7 @@ People
 Nature
 ----------
 | 表情图 | 表情代码 | 表情图 | 表情代码 |
-| :--: | :-- | :-- | :-- |
+| :--: | :-- | :--: | :-- |
 | :sunny: | `:sunny:` | :umbrella: | `:umbrella:` |
 | :cloud: | `:cloud:` | :snowflake: | `:snowflake:` |
 | :snowman: | `:snowman:` | :zap: | `:zap:` |
@@ -301,7 +301,7 @@ Objects
 Places
 ----------
 | 表情图 | 表情代码 | 表情图 | 表情代码 |
-| :--: | :-- | :-- | :-- |
+| :--: | :-- | :--: | :-- |
 | :house: | `:house:` | :house_with_garden: | `:house_with_garden:` |
 | :school: | `:school:` | :office: | `:office:` |
 | :post_office: | `:post_office:` | :hospital: | `:hospital:` |
@@ -359,7 +359,7 @@ Places
 Symbols
 ----------
 | 表情图 | 表情代码 | 表情图 | 表情代码 |
-| :--: | :-- | :-- | :-- |
+| :--: | :-- | :--: | :-- |
 | :one: | `:one:` | :two: | `:two:` |
 | :three: | `:three:` | :four: | `:four:` |
 | :five: | `:five:` | :six: | `:six:` |
